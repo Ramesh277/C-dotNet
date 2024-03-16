@@ -1,0 +1,36 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\BCA\\DotNetLab\\OOPs\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{97975629-719F-450D-B64A-6BC03FC2C995}|OOPs\\OOPs.csproj|d:\\bca\\dotnetlab\\oops\\oops\\oops.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{97975629-719F-450D-B64A-6BC03FC2C995}|OOPs\\OOPs.csproj|solutionrelative:oops\\oops.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "OOPs",
+              "DocumentMoniker": "D:\\BCA\\DotNetLab\\OOPs\\OOPs\\OOPs.csproj",
+              "RelativeDocumentMoniker": "OOPs\\OOPs.csproj",
+              "ToolTip": "D:\\BCA\\DotNetLab\\OOPs\\OOPs\\OOPs.csproj",
+              "RelativeToolTip": "OOPs\\OOPs.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-03-10T10:10:20.668Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
